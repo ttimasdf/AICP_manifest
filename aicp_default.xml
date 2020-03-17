@@ -7,7 +7,7 @@
            revision="refs/heads/p9.0" />
 
   <remote  name="lineage"
-           fetch="https://github.com/LineageOS"
+           fetch="https://mirrors.tuna.tsinghua.edu.cn/git/lineageOS/LineageOS"
            review="review.lineageos.org"
            revision="refs/heads/lineage-16.0" />
 
